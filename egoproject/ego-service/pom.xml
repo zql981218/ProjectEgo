@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <artifactId>egoproject</artifactId>
+    <groupId>com.eg</groupId>
+    <version>0.0.1-SNAPSHOT</version>
+    <relativePath>..</relativePath>
+  </parent>
+  <artifactId>ego-service</artifactId>
+ <dependencies>
+	<!-- 引入实体类子项目的坐标 -->
+		<dependency>
+			<groupId>com.eg</groupId>
+			<artifactId>ego-pojo</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<!-- 引入公共类类子项目的坐标 -->
+		<dependency>
+			<groupId>com.eg</groupId>
+			<artifactId>ego-commons</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+</project>

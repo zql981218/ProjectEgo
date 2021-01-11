@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [04/Jan/2021:17:11:25 +0800] "GET /user/token/a4cb3dea-40e5-40aa-aa1b-4f4d7d593ea9?callback=jQuery6543173&_=1609751484893 HTTP/1.1" 200 80 http-bio-8084-exec-1 282
+0:0:0:0:0:0:0:1 - - [04/Jan/2021:17:11:51 +0800] "GET /user/showLogin HTTP/1.1" 200 4003 http-bio-8084-exec-4 891
+0:0:0:0:0:0:0:1 - - [04/Jan/2021:17:11:51 +0800] "GET /images/EGO-logo.gif HTTP/1.1" 404 949 http-bio-8084-exec-5 8
+0:0:0:0:0:0:0:1 - - [04/Jan/2021:17:12:01 +0800] "POST /user/login HTTP/1.1" 200 68 http-bio-8084-exec-6 942
+0:0:0:0:0:0:0:1 - - [04/Jan/2021:17:12:08 +0800] "POST /user/login HTTP/1.1" 200 48 http-bio-8084-exec-7 554
+0:0:0:0:0:0:0:1 - - [04/Jan/2021:17:12:10 +0800] "GET /user/token/1a68bab6-547d-4fcc-8fa5-9d5a523e150d?callback=jQuery7029500&_=1609751530043 HTTP/1.1" 200 192 http-bio-8084-exec-8 78
+0:0:0:0:0:0:0:1 - - [04/Jan/2021:17:12:11 +0800] "GET /user/logout/1a68bab6-547d-4fcc-8fa5-9d5a523e150d?callback=abc&_=1609751531894 HTTP/1.1" 200 59 http-bio-8084-exec-8 4
